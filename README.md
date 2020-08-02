@@ -1,1 +1,1 @@
-<div style="text-align:center"><img src="https://github.com/zirinya/zirinya/raw/master/cat.gif" /></div>
+<div width=700px style="text-align:center;margin:0 auto"><img src="https://github.com/zirinya/zirinya/raw/master/cat.gif" /></div>
