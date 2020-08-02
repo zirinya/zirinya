@@ -1,1 +1,1 @@
-<div width=700px style="text-align:center;margin:0 auto"><img src="https://github.com/zirinya/zirinya/raw/master/cat.gif" /></div>
+![well](https://github.com/zirinya/zirinya/raw/master/cat.gif);
