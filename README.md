@@ -1,2 +1,1 @@
-![welllll]/cat.gif
-
+![well](cat.gif)
