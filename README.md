@@ -1,2 +1,2 @@
-![welllll]/cat.gif
+![welllll]/zirinya/cat.gif
 
