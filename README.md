@@ -1,1 +1,1 @@
-![well](https://github.com/zirinya/zirinya/cat.gif)
+![well](https://github.com/zirinya/cat.gif)
