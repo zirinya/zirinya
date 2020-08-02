@@ -1,1 +1,1 @@
-![well](https://github.com/zirinya/zirinya/raw/master/cat.gif);
+<div style="text-align:center"><img src="https://github.com/zirinya/zirinya/raw/master/cat.gif" /></div>
