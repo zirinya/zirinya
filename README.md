@@ -3,10 +3,4 @@
 
 
 
-<p>
- <img align="center" src ="https://github-readme-stats.vercel.app/api?username=zirinya&show_icons=true&theme=graywhite&hide_border=true&hide=issues,contribs&include_all_commits=true"> 
-  </p>
-  <a>
-   <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zirinya&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php"> 
-  </a>
- </p>
+ <img align="center" src ="https://github-readme-stats.vercel.app/api?username=zirinya&show_icons=true&theme=graywhite&hide_border=true&hide=issues,contribs&include_all_commits=true&hide_rank=true"> <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zirinya&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php"> 
